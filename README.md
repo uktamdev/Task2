@@ -32,3 +32,26 @@ Login settings:
 
 ## ✅ Notes
 - The database is in-memory, so data will be cleared after application restart.
+
+## ✅ Screenshots
+
+### ✅ Swagger POST
+![Swagger POST](task2.1.png)
+
+### ✅ Swagger GET ALL
+![Swagger GET ALL](task2.2.png)
+
+### ✅ Swagger GET BY ID
+![Swagger GET BY ID](task2.3.png)
+
+### ✅ Swagger PUT Update
+![Swagger PUT](task2.4.png)
+
+### ✅ Swagger DELETE
+![Swagger DELETE](task2.5.png)
+
+### ✅ ERROR
+![ERROR](task2.6.png)
+
+### ✅ H2 Console
+![H2 Console](task2.7.png)
